@@ -1,5 +1,4 @@
 numpy
 soundfile
-ast
 scipy
 matplotlib
